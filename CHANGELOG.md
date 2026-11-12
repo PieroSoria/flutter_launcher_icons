@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Allow `cli_util` 0.5.x to resolve alongside packages such as Melos 8.
+
 ## 0.14.4 (10th June 2025)
 
 - Removed rules which no longer exist from analysis_options [#598](https://github.com/fluttercommunity/flutter_launcher_icons/issues/598)
